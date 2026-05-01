@@ -1,4 +1,3 @@
-# FIFA-Player-Performance-Classification-Analysis
 # FIFA Player Performance Classification & Analysis (Team Project)
 
 ## 📌 Project Context
